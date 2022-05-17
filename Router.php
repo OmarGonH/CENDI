@@ -77,6 +77,6 @@ class Router {
         //Mostrar se inyectara directamente en views
         include __DIR__ . '/views/layout.php';
 
-
+    //huevos merlin
     }
 }
